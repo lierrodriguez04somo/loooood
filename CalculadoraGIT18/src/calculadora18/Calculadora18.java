@@ -1,4 +1,5 @@
 package calculadora18;
+@author [Lier Rodriguez Rey]
  /** soy Lier Rodriguez Rey y este es el segundo comentario */
  /** soy Lier Rodriguez Rey y soy listo */
 public class Calculadora18 {
