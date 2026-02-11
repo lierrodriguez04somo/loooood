@@ -1,5 +1,5 @@
 package calculadora18;
- /** soy Lier Rodriguez Rey y soy guapo */
+ /** soy Lier Rodriguez Rey y soy listo */
 public class Calculadora18 {
 	public int sumar(int a, int b) {
 		 return a + b;
